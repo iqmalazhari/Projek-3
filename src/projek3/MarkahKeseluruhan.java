@@ -12,7 +12,7 @@ package projek3;
 public class MarkahKeseluruhan {
     public static void main(String[]args){
         
-        int fop,wp,si;
+        int fop,coa,wp,si;
         int jumlah;
         int purata;
         double peratus;
